@@ -1,0 +1,9 @@
+Package: com.nilsh.sshtoggle
+Name: sshToggle
+Depends: mobilesubstrate, com.opa334.ccsupport
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A module that adds a SSH toggle to your Control center
+Maintainer: Nils
+Author: Nils Hartmann
+Section: Control Center (Modules)
