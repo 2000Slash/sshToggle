@@ -1,0 +1,3 @@
+#!/bin/sh
+cp /etc/ssh/sshd_config /etc/ssh/sshd_config.bak 
+chmod o+w /etc/ssh/sshd_config
